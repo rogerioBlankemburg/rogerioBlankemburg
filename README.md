@@ -1,18 +1,13 @@
 <div>
   <h1 align="center">Olá tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Rogério Blankemburg</i></a>:wave:</h1>
   <p align="center">Faço o curso de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/"><i>Estácio</i></a> e estudo Desenvolvimento Web - Front End
+  <br>
+  :snake:Admirador da linguagem Python <br>
+  😍 Entusiasta da Internet das Coisas
   <br><br>
   <a href="mailto:roger.front79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rogerio-blankemburg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discord.gg/8GxzVAKy"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rogerioBlankemburg&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerioBlankemburg&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
 </div>
 
 <div align="center" valign="top"><br>
