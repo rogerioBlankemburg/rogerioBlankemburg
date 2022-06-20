@@ -1,9 +1,8 @@
 <div>
   <h1 align="center">Olá tudo bem? Eu me chamo <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Rogério Blankemburg</i></a>:wave:</h1>
-  <p align="center">Faço o curso de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/"><i>Estácio</i></a> e estudo Desenvolvimento Web - Front End
+  <p align="center">Faço o curso de Análise e Desenvolvimento de Sistemas na <a href="https://estacio.br/"><i>Estácio</i></a> e estudo Desenvolvimento Web - Full Stack
   <br>
   :snake:Admirador da linguagem Python <br>
-  😍 Entusiasta da Internet das Coisas
   <br><br>
   <a href="mailto:roger.front79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rogerio-blankemburg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
